@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/midterm/stopInGreen/Content/Fonts/note.spritefont","D:/midterm/stopInGreen/Content/bin/DesktopGL/Content/Fonts/note.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0.2206125
+"D:/midterm/stopInGreen/Content/Fonts/text.spritefont","D:/midterm/stopInGreen/Content/bin/DesktopGL/Content/Fonts/text.xnb","FontDescriptionProcessor","SpriteFontContent",2008,136226,0.0256471
+"D:/midterm/stopInGreen/Content/Fonts/textBold.spritefont","D:/midterm/stopInGreen/Content/bin/DesktopGL/Content/Fonts/textBold.xnb","FontDescriptionProcessor","SpriteFontContent",2010,136226,0.0273139
+"D:/midterm/stopInGreen/Content/Fonts/title.spritefont","D:/midterm/stopInGreen/Content/bin/DesktopGL/Content/Fonts/title.xnb","FontDescriptionProcessor","SpriteFontContent",2008,136226,0.0242093
+"D:/midterm/stopInGreen/Content/Images/gold_glow_256.png","D:/midterm/stopInGreen/Content/bin/DesktopGL/Content/Images/gold_glow_256.xnb","TextureProcessor","Texture2DContent",122856,262229,0.0351648

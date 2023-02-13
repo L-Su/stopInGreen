@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/midterm/stopInGreen/Content/Fonts/note.spritefont</File>
+    <File>D:/midterm/stopInGreen/Content/Fonts/text.spritefont</File>
+    <File>D:/midterm/stopInGreen/Content/Fonts/textBold.spritefont</File>
+    <File>D:/midterm/stopInGreen/Content/Fonts/title.spritefont</File>
+    <File>D:/midterm/stopInGreen/Content/Images/gold_glow_256.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
